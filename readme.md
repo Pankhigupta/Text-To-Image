@@ -6,17 +6,15 @@ A simple, interactive Streamlit web app that generates images from textual promp
 
 ## 🌐 Live Demo
 
-_(If deployed, add your link here)_
+https://text-to-imagez.streamlit.app
 
 ---
 
 ## 📸 Screenshots
 
-> _Add your screenshots below to show the app in action_
+>
 
-| Prompt Input Form                      | Generated Image                         |
-| -------------------------------------- | --------------------------------------- |
-| ![Screenshot 1](screenshots/input.png) | ![Screenshot 2](screenshots/output.png) |
+| ![Screenshot 1](screenshots/Cats.png) | ![Screenshot 2](screenshots/IceCream.png) |
 
 ---
 
